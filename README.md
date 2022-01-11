@@ -4,7 +4,7 @@ To see Aditya verma's DP playlist click [here](https://www.youtube.com/playlist?
 
 ## What is Dynamic Programming ?
 ##### Dynamic Programming is an enhanced recursion.
-#### How to know which question will be solved by Dynamic Programming ?
+### How to know which question will be solved by Dynamic Programming ?
 ##### DP will be applied to a question 
 1. If the question is choice based, like whether a particular element should be included or not, 
 2. If the question is asking to find optimal values like minimum, maximum or largest, etc.
