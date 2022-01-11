@@ -4,7 +4,7 @@
 Given an array of non-negative integers, and a value sum, determine if there is a subset of the given set with sum equal to given sum. 
 
 
-###### **Example 1:**
+#### **Example 1:**
 
 **Input:**
 N = 6
@@ -16,7 +16,7 @@ sum = 9
 **Explanation:** Here there exists a subset with
 sum = 9, 4+3+2 = 9.
 
-###### **Example 2:**
+#### **Example 2:**
 
 **Input:**
 N = 6
