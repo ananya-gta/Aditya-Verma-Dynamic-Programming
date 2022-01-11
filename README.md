@@ -1,10 +1,11 @@
 # Dynamic-Programming-by-Aditya-Verma
 This repository consists of all the programs explained by Aditya Verma on the topic Dynamic Programming.
 To see Aditya verma's DP playlist click [here](https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
-##What is Dynamic Programming ?
-###Dynamic Programming is an enhanced recursion.
 
-##Types of Problems in Dynamic Programming and their variations
+## What is Dynamic Programming ?
+### Dynamic Programming is an enhanced recursion.
+
+## Types of Problems in Dynamic Programming and their variations
 1. 0/1 Knapsack problem [6]
 2. Unbounded Knapsack [5]
 3. Fibonacci [7]
