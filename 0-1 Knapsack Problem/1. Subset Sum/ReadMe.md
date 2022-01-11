@@ -10,7 +10,9 @@ Given an array of non-negative integers, and a value sum, determine if there is 
 N = 6
 arr[] = {3, 34, 4, 12, 5, 2}
 sum = 9
+
 **Output:** 1 
+
 **Explanation:** Here there exists a subset with
 sum = 9, 4+3+2 = 9.
 
@@ -20,7 +22,9 @@ sum = 9, 4+3+2 = 9.
 N = 6
 arr[] = {3, 34, 4, 12, 5, 2}
 sum = 30
+
 **Output:** 0 
+
 **Explanation:** There is no subset with sum 30.
 
 **Your Task:**  
@@ -29,6 +33,7 @@ The driver code itself prints 1, if returned value is true and prints 0 if retur
  
 
 **Expected Time Complexity:** O(sum*N)
+
 **Expected Auxiliary Space:** O(sum*N)
  
 
