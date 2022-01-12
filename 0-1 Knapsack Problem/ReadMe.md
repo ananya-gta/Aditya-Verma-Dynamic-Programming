@@ -5,7 +5,7 @@ In other words, given two integer arrays val[0..n-1] and wt[0..n-1] which repres
 Also given an integer W which represents knapsack capacity, find out the maximum value subset of val[] such that sum of the weights of this subset is smaller than or equal to W. 
 You cannot break an item, either pick the complete item or don’t pick it (0-1 property).
 
-### :no_entry_sign: *Repetition of items is not allowed !!*
+## :no_entry_sign: *Repetition of items is not allowed !!*
 
 ![image](https://user-images.githubusercontent.com/64327691/149123926-aeb4e95d-fc76-489a-88fd-33fe46a456e0.png)
 
