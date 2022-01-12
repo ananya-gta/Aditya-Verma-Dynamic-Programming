@@ -11,12 +11,12 @@ class Solution {
         for(int j = 1 ; j < amount +1 ; j++)
             dp[0][j]=Integer.MAX_VALUE-1;
         
-        for(int i =1 ; i < amount+1;i++)
+        for(int j =1 ; j < amount+1;i++)
         {
-            if (i%coins[0]==0)
-                dp[1][i]=i/coins[0];
+            if (j % coins[0]==0)
+                dp[1][j]= j/coins[0];
             else
-                dp[1][i]=Integer.MAX_VALUE-1;
+                dp[1][j]=Integer.MAX_VALUE-1;
             
         }
         
