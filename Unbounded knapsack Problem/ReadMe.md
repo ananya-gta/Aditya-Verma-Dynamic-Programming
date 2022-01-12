@@ -25,9 +25,10 @@ Output : 110
 We get maximum value with one unit of
 weight 5 and one unit of weight 3.
 
+
 # :heavy_check_mark: *Repetition of items is  allowed  !!!!*
 
-![image](https://user-images.githubusercontent.com/64327691/149123926-aeb4e95d-fc76-489a-88fd-33fe46a456e0.png)
+
 
 ### Code for 0-1 Knapsack Problem
 
