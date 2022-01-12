@@ -21,7 +21,7 @@ So, simply we can get the answer by finding the number of subsets with given sum
 
 ## STEPS:
 
-1. We are taking user input n, diff, a[n] as size of array, given difference and the array respectively.
+1. We are taking user input n, diff, nums[n] as size of array, given difference and the array respectively.
 
 2. Now, we can find sum1=(total sum + diff)/2
 
