@@ -1,10 +1,10 @@
 # Problem Statement 
 
-Given an array arr[] of length N and an integer X, the task is to find the number of subsets with a sum equal to X.
+Given an array arr[] of length N and an integer X, the task is to find the number of subsets with a sum equal to sum.
 
 Examples: 
 
-Input: arr[] = {1, 2, 3, 3}, X = 6 
+Input: arr[] = {1, 2, 3, 3}, sum = 6 
 
 Output: 3 
 
