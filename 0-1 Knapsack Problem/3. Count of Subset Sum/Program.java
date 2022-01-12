@@ -1,12 +1,12 @@
 class Solution{
-    static Boolean SubsetSum(int N, int arr[], int sum){
+    static int SubsetSum(int N, int arr[], int sum){
 
-        boolean dp[][] = new boolean[N + 1][sum + 1];
+        int dp[][] = new int[N + 1][sum + 1];
         for (int i = 0; i <= N; i++)
-             dp[i][0] = true;
+             dp[i][0] =1;
 
         for (int j = 1; j <= sum; i++)
-            dp[0][j] = false;
+            dp[0][j] = 0;
       
         for (int i = 1; i < N+1; i++)
         {
