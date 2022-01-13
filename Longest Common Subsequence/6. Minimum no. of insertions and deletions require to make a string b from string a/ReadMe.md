@@ -20,19 +20,5 @@ Input: word1 = "leetcode", word2 = "etco"
 
 Output: 4
 
-#LOGIC:
 
-                      "heap"----------------->"pea"
-	                       \                    /
-		                    \                  /     
-      2 deletions            \                /          1 insertion is required          
-	 are required             \              /                to make "pea" from 
-	  to make "ea"             \            /                        "ea".  
-      from "heap"               \          / 
-								 \        /
-								    "ea"
-	
-
-
-                                
        ### Total Modifications required = Insertion + Deletion
