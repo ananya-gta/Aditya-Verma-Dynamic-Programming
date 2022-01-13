@@ -19,3 +19,5 @@ Find the length of the longest common subsequence.
 Sum the length of both the strings.
 The difference of the two gives us the length of the shortest supersequence.
 
+Answer = s1.length() + s2.length() - dp[n][m]
+
