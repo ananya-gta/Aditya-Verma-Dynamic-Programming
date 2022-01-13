@@ -23,7 +23,7 @@ class  LongestCommonSubsequence
             }
         }
       StringBuilder sb= new StringBuilder();
-      int i=m, j=n;
+      int i=n, j=m;
       while(i>0 && j>0)
       {
         if(X.charAt(i-1) == Y.charAt(j-1))
