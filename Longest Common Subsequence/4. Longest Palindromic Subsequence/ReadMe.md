@@ -23,7 +23,7 @@ Output: 2
 Explanation: One possible longest palindromic subsequence is "bb".
  
 
-Constraints:
+### Constraints:
 
 1 <= s.length <= 1000
 
